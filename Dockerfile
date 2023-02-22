@@ -110,4 +110,4 @@ RUN pip install --upgrade pip && pip install numpy && \
         pip3 install opencv/build/python_loader && \
         pip install -r requirements.txt
 
-ENTRYPOINT ["cd", "exemple/exemples/src/","&&","python","main.py" ]
+CMD ["python","exemple/exemples/src/main.py"]
