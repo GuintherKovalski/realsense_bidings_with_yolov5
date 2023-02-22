@@ -2,7 +2,7 @@
 
  > This is a lightweight implementation of realsense bidings for python from c++. The goal is to use the realsense camera along with some exemples on how to use it in some computer vision projects. 
  
- **Note: Realsense already provide python bidings, but in our experiments they run slower than the ones provided here, and also are more complicated to use**
+ **Note: Realsense already provide python bidings, but in our experiments they run slower than the ones provided here, and also are more complicated to use.**
  
  ![pl](images/exemple.png) 
 
