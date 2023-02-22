@@ -6,7 +6,7 @@
  
  ![pl](images/exemple.png) 
 
-It aims to be as simple to use as:
+The bindings provided here aim to be as simple to use as:
 
 - `from bin.depthcam import DepthCam` 
 - `depthcam = DepthCam()`
