@@ -23,7 +23,7 @@ run:
 `docker build -t realsense_yolo:latest .`
 
 ## Usage
-There is an exemple of usage at `exemples/src/main.py', you can also run `bash run_container.sh`
+There is an exemple of usage at `exemples/src/main.py`, you can also run `bash run_container.sh`
 
 
 
