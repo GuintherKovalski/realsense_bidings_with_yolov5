@@ -12,7 +12,7 @@ It aims to be as simple to use as:
 - `depthcam = DepthCam()`
 - `z = depthcam.getDepth(x,y)`
 
-And gets z in millimiters from the x and y pixel positions in the image.
+And gets z in millimeters from the x and y pixel positions in the image.
 
 ## Installation
 ### Prerequisites
