@@ -1,4 +1,4 @@
-# Real sense python bidings with YOLOv5 integration
+# Realsense python bidings with YOLOv5 integration
 
  > This is a lightweight implementation of realsense bidings for python from c++. The goal is to use the realsense camera along with some exemples on how to use it in some computer vision projects. 
  
