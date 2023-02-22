@@ -19,4 +19,12 @@ And gets z in millimeters from the x and y pixel positions in the image.
 * A realsense camera.
 * Python installed.
 
+run:
+`docker build -t realsense_yolo:latest .`
+
+## Usage
+There is an exemple of usage at `exemples/src/main.py`, you can also run `bash run_container.sh`
+
+
+
 
