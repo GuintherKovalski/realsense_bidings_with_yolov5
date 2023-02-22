@@ -4,7 +4,7 @@
  
  **Note: Realsense already provide python bidings, but in our experiments they run slower than the ones provided here, and also are more complicated to use**
  
- ![pl](images/summary.png) 
+ ![pl](images/exemple.png) 
 
 It aims to be as simple to use as:
 
