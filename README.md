@@ -1,4 +1,4 @@
-# Real sense python bidings with YOLOv5 integration
+# Realsense python bidings with YOLOv5 integration
 
  > This is a lightweight implementation of realsense bidings for python from c++. The goal is to use the realsense camera along with some exemples on how to use it in some computer vision projects. 
  
@@ -12,7 +12,7 @@ It aims to be as simple to use as:
 - `depthcam = DepthCam()`
 - `z = depthcam.getDepth(x,y)`
 
-And gets z in millimiters from the x and y pixel positions in the image.
+And gets z in millimeters from the x and y pixel positions in the image.
 
 ## Installation
 ### Prerequisites
