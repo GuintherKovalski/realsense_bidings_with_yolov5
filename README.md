@@ -4,7 +4,7 @@
  
  **Note: Realsense already provide python bidings, but in our experiments they run slower than the ones provided here, and also are more complicated to use.**
  
- <img src="[https://your-image-url.type](https://github.com/GuintherKovalski/realsense_bidings_with_yolov5/blob/main/images/exemple.png)" width="100" height="100">
+<img src="https://your-image-url.type](https://github.com/GuintherKovalski/realsense_bidings_with_yolov5/blob/main/images/exemple.png" width="100" height="100">
 
 The bindings provided here aim to be as simple to use as:
 
